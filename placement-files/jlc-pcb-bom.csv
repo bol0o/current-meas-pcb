@@ -1,0 +1,10 @@
+Designator,Comment,Footprint,Quantity,LCSC PN
+C1,100n,Capacitor_SMD:C_0805_2012Metric,1,C49678
+C2,47n,Capacitor_SMD:C_0805_2012Metric,1,C53134
+D1,D_Schottky,Diode_SMD:D_SOD-123,1,C42445803
+J1,Screw_Terminal_01x02,Custom:CONN-TH_P10.16_KF135T-10.16-2P,1,C475108
+J2,Conn_01x03_Pin,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,1,C2937625
+R1,0.5m,Resistor_SMD:R_2512_6332Metric,1,C469426
+R2,130k,Resistor_SMD:R_0805_2012Metric,1,C2933305
+R3,220,Resistor_SMD:R_0805_2012Metric,1,C17414
+U1,INA169,Package_TO_SOT_SMD:SOT-23-5,1,C44322
